@@ -30,3 +30,5 @@ public class Employee {
         this.pay = pay;
     }
 }// 주석문 추가.
+
+// main에서 수정 함.
