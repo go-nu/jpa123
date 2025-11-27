@@ -10,7 +10,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class Employee {
+public class Employee {ㅍㅍㅍㅍㅍㅍㅍ
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
