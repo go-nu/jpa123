@@ -7,3 +7,5 @@ public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 }
 // 집가고싶다
 // 아직 시험도 남았따.
+
+// 2차 작업
